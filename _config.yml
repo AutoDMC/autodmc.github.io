@@ -1,6 +1,5 @@
-baseurl: /starter
+baseurl: /
 permalink: pretty
-markdown: rdiscount
 theme: jekyll-theme-dinky
 prose:
   rooturl: '_posts'
